@@ -1,0 +1,6 @@
+jurisdiction,assessment_date,assessment_year,standard,overall_grade,components_assessed,compliant_components,largely_compliant_components,materially_non_compliant_components,non_compliant_components,timing_met,source_file,drove_negotiations,g10_member,overall_grade_numeric
+Japan,October 2012,2012,Basel III Risk-Based Capital,Compliant,14,14,0,0,0,True,rcap_japan_2012.pdf,False,True,4
+Switzerland,June 2013,2013,Basel III Risk-Based Capital,Compliant,14,11,3,0,0,True,rcap_switzerland_2013.pdf,False,True,4
+Canada,June 2014,2014,Basel III Risk-Based Capital,Compliant,14,13,1,0,0,True,rcap_canada_2014.pdf,False,True,4
+United States,December 2014,2014,Basel III Risk-Based Capital,Largely Compliant,13,7,4,2,0,False,rcap_usa_2014.pdf,True,True,3
+European Union,December 2014,2014,Basel III Risk-Based Capital,Materially Non-Compliant,14,8,4,1,1,False,rcap_eu_2014.pdf,True,True,2

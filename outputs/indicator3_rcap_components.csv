@@ -1,0 +1,28 @@
+jurisdiction,component,grade,grade_numeric
+European Union,Definition of Capital,Compliant,4
+European Union,Credit Risk — Standardised Approach,Compliant,4
+European Union,Credit Risk — IRB Approach,Materially Non-Compliant,2
+European Union,Credit Risk — Securitisation,Compliant,4
+European Union,Counterparty Credit Risk,Non-Compliant,1
+European Union,Market Risk — Standardised Approach,Compliant,4
+European Union,Market Risk — Internal Models Approach,Largely Compliant,3
+European Union,Operational Risk,Compliant,4
+European Union,Capital Buffers,Largely Compliant,3
+European Union,Global SIBs,Largely Compliant,3
+European Union,Pillar 2 — Supervisory Review,Compliant,4
+European Union,Pillar 3 — Market Discipline,Compliant,4
+European Union,Transitional Arrangements,Largely Compliant,3
+European Union,Overall Assessment,Materially Non-Compliant,2
+United States,Definition of Capital,Largely Compliant,3
+United States,Credit Risk — Standardised Approach,Materially Non-Compliant,2
+United States,Credit Risk — IRB Approach,Largely Compliant,3
+United States,Credit Risk — Securitisation,Materially Non-Compliant,2
+United States,Counterparty Credit Risk,Compliant,4
+United States,Market Risk — Standardised Approach,Compliant,4
+United States,Market Risk — Internal Models Approach,Compliant,4
+United States,Operational Risk,Compliant,4
+United States,Capital Buffers,Compliant,4
+United States,Global SIBs,Compliant,4
+United States,Pillar 2 — Supervisory Review,Largely Compliant,3
+United States,Pillar 3 — Market Discipline,Largely Compliant,3
+United States,Overall Assessment,Largely Compliant,3
