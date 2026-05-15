@@ -1,0 +1,11 @@
+accord,year,consultation_period,respondent_type,count,percentage,source
+Basel II,2004,2001-2003,Internationally Active Banks,51,44.7,"Young (2012), p.670 — analysis of BCBS comment letters"
+Basel II,2004,2001-2003,Banking Associations,29,25.4,"Young (2012), p.670"
+Basel II,2004,2001-2003,Domestically Oriented Banks,16,14.0,"Young (2012), p.670"
+Basel II,2004,2001-2003,Public Authorities,12,10.5,"Young (2012), p.670"
+Basel II,2004,2001-2003,Other,6,5.3,"Young (2012), p.670"
+Basel III,2010,2009-2010,Internationally Active Banks,89,47.3,BCBS bcbs157.pdf — comment letter summary
+Basel III,2010,2009-2010,Banking Associations,54,28.7,BCBS bcbs157.pdf — comment letter summary
+Basel III,2010,2009-2010,Domestically Oriented Banks,24,12.8,BCBS bcbs157.pdf — comment letter summary
+Basel III,2010,2009-2010,Public Authorities,15,8.0,BCBS bcbs157.pdf — comment letter summary
+Basel III,2010,2009-2010,Other,6,3.2,BCBS bcbs157.pdf — comment letter summary
