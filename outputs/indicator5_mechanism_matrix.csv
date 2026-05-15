@@ -1,0 +1,37 @@
+objective,objective_order,mechanism,strength,strength_numeric
+"Enforcement
+Cooperation",1,Reputation,Strong,3
+"Enforcement
+Cooperation",1,Market Access,Strong,3
+"Enforcement
+Cooperation",1,Institutional Synchronization,Strong,3
+"Enforcement
+Cooperation",1,Network Pressure,Strong,3
+Liberalization,2,Reputation,Strong,3
+Liberalization,2,Market Access,Strong,3
+Liberalization,2,Institutional Synchronization,Strong,3
+Liberalization,2,Network Pressure,Moderate,2
+"Developing Country
+Regulation",3,Reputation,Moderate,2
+"Developing Country
+Regulation",3,Market Access,Moderate,2
+"Developing Country
+Regulation",3,Institutional Synchronization,Moderate,2
+"Developing Country
+Regulation",3,Network Pressure,Moderate,2
+"Prudential
+Standards",4,Reputation,Moderate,2
+"Prudential
+Standards",4,Market Access,Weak,1
+"Prudential
+Standards",4,Institutional Synchronization,Moderate,2
+"Prudential
+Standards",4,Network Pressure,Moderate,2
+"Cross-Border
+Resolution",5,Reputation,Weak,1
+"Cross-Border
+Resolution",5,Market Access,Weak,1
+"Cross-Border
+Resolution",5,Institutional Synchronization,Weak,1
+"Cross-Border
+Resolution",5,Network Pressure,Weak,1
